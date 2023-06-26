@@ -1,0 +1,36 @@
+.border1{
+    border-color: white;
+    border-width: 3px;
+}
+
+li > a{
+    text-decoration: none;
+    color: white;  
+}
+li{
+    list-style-type: none;
+    margin-right: 15px;
+}
+.bg-image{
+    background-image: url('./images/Crater-Lake-in-National-Park-Crater-Lake-in-southern-Oregon-United-States-of-America-Summer-Wallpaper-HD-for-Desktop-3840x2400-.jpg');
+    background-repeat: no-repeat;
+    background-size:cover; 
+    background-position: center; 
+    opacity: 0.8;
+}
+img{
+    height: 350px;
+    width: 350px;
+}
+.color{
+    color:#47A992; 
+}
+.underline{
+    text-decoration: underline;
+}
+
+
+.circle {
+    border-radius: 60%;
+  }
+  
